@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/7dEfrr5ljZ39cZt4Cvi2gi9yPf04SsKkTjwFYKW/grzyr+KsBJ+HCtLwZQEj9H46wPFuqAMDgqu2G4eaJTYUQ==",
+  "dgSpecHash": "AoAiJMFuh0uIpJ4Cs1H2enleO6A6DzrKqLDk0wM/sQZXPItY715BEKfyst5VuemtwD9AwPjBmlbvKb0q/4G4zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\GITHUB\\AspNetCore.API\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
   ],

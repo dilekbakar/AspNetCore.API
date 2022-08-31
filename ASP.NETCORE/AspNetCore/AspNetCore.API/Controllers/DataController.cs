@@ -26,12 +26,27 @@ namespace AspNetCore.API.Controllers
             return data;
         }
 
-        public Data Post([FromBody]Data datas)
+        public Data Post([FromBody]Data data)
         {
-            _datas.Add(datas);
-            return datas;
+            _datas.Add(data);
+            return data;
+        }
+        [HttpPut]
+        public Data Put([FromBody] Data data)
+        {
+            var _editedData= _datas.FirstOrDefault(x=>x.ID==data.ID);
+            _editedData.Title=data.Title;   
+            _editedData.VideoUrl=data.VideoUrl;
+          
+            return data;
         }
 
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            var deletedUser=_datas.FirstOrDefault(x=>x.ID==id);
+            _datas.Remove(deletedUser);
+        }
     }
 
 

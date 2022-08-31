@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\GITHUB\\AspNetCore.API\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
       "projectName": "AspNetCore.API",
-      "projectPath": "C:\\Users\\user\\Desktop\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\GITHUB\\AspNetCore.API\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\AspNetCore.API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\GITHUB\\AspNetCore.API\\ASP.NETCORE\\AspNetCore\\AspNetCore.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
